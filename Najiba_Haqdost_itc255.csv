@@ -1,0 +1,31 @@
+customer_ID,gender,age,height,sport,satisfaction ,income
+1,M,25,175,YES,Very Satisfied,25000
+2,F,22,160,NO,Satisfied ,37000
+3,M,19,180,YES,Not Satisfied ,20000
+4,M,26,163,YES,Very Satisfied,41000
+5,F,35,170,NO,Satisfied ,30000
+6,F,40,155,YES,Not Satisfied ,15000
+7,F,20,178,YES,Very Satisfied,20000
+8,M,43,169,NO,Satisfied ,56000
+9,M,33,172,NO,Satisfied ,26000
+10,F,27,160,NO,Not Satisfied ,20000
+11,M,35,163,YES,Very Satisfied,42000
+12,M,24,170,YES,Not Satisfied ,37000
+13,M,38,169,NO,Very Satisfied,19000
+14,M,34,176,YES,Satisfied ,35000
+15,F,65,162,NO,Not Satisfied ,70000
+16,F,32,174,YES,Very Satisfied,16000
+17,M,55,168,NO,Very Satisfied,10000
+18,F,21,181,YES,Very Satisfied,55000
+19,F,29,164,NO,Satisfied ,17000
+20,M,30,175,YES,Satisfied ,57000
+21,F,22,159,YES,Satisfied ,45000
+22,M,37,172,YES,Satisfied ,18000
+23,F,18,167,NO,Satisfied ,5000
+24,M,40,176,YES,Not Satisfied ,25000
+25,F,38,160,NO,Not Satisfied ,39000
+26,M,22,173,YES,Very Satisfied,42000
+27,F,26,157,NO,Very Satisfied,15000
+28,F,24,179,NO,Not Satisfied ,68000
+29,M,35,162,YES,Satisfied ,41000
+30,F,33,177,YES,Satisfied ,52000
